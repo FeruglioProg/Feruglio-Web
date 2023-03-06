@@ -27,16 +27,16 @@ hoverChangeExperience(
 hoverChangeExperience(
   ".codigofontetv",
   `Un conjunto de técnicas y procesos destinados a la limpieza, rejuvenecimiento y protección de las distintas superficies de un vehículo.`,
-  "Estetica vehicular",
-  "Estetica vehicular",
+  "Restauracion",
+  "Restauracion",
   "1996 - 2023"
 );
 
 hoverChangeExperience(
   ".contweb",
   `Un conjunto de técnicas y procesos destinados a la limpieza, rejuvenecimiento y protección de las distintas superficies de un vehículo.`,
-  "Restauracion",
-  "Restauracion",
+  "Estetica vehicular",
+  "Estetica vehicular",
   "1996 - 2023"
 );
 
